@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 2b2554a0679094c4fa3d3177b8c7807f
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a6-alu
+    second: {fileID: 2100000, guid: 24bda6fad510be943ab6ce6e0e6837d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a6-black
+    second: {fileID: 2100000, guid: d7cf118f0451fcb4dbcda440808b0f2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a6-bulb
+    second: {fileID: 2100000, guid: ad6dad062b2bc5f43b61e9b2fa3f3cd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a6-chrome
+    second: {fileID: 2100000, guid: 57e6c1693b7293b47aef38727d5c0f28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a6-dark plastic
+    second: {fileID: 2100000, guid: bf1a1b2c9b33f1c43a0fb22f179c832c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a6-fl-frame
+    second: {fileID: 2100000, guid: 40bb27b106fee694387aee845c66901d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a6-fl-glass
+    second: {fileID: 2100000, guid: 7ca3090bf53b8654883755ef22ce1602, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a6-fl-mirror
+    second: {fileID: 2100000, guid: 73c7458c50abba54bb5421ce696ac28e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a6-glass
+    second: {fileID: 2100000, guid: be0611d122969cf4e9bd7681530ca13d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a6-glass black
+    second: {fileID: 2100000, guid: 3b5fa54c7e425cd40a9abfa882fbe1f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a6-halo mirror
+    second: {fileID: 2100000, guid: 2ec52830970bf5b4f9dca52df3ad665e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a6-inside
+    second: {fileID: 2100000, guid: 19c4b2e40bb1fe544b6da86e9584ce56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a6-lens
+    second: {fileID: 2100000, guid: bf65730242c80624b88734513bf08f10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a6-main body
+    second: {fileID: 2100000, guid: c4fcdc4b628d2364c9b0aa8da905e4ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a6-mirror
+    second: {fileID: 2100000, guid: 0df778facd820c747bca6ff7a07f0a2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a6-plate
+    second: {fileID: 2100000, guid: c4c16fe6a24813d4da8c1e1153855086, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a6-red
+    second: {fileID: 2100000, guid: 96431406ed1acb04ea37f857b82e8e61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a6-rubber
+    second: {fileID: 2100000, guid: 6d70352eaf97a364f9b16ab908990eac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a6-shields
+    second: {fileID: 2100000, guid: b5ef4322f7dfb1647afe9e653a5c7c9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a6-tire
+    second: {fileID: 2100000, guid: a74e49654e0d3c343b098bee8d1fe590, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a6-tire_rel
+    second: {fileID: 2100000, guid: a3b19d4538871e14e96ff970d3d86470, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a6-wheel-discs
+    second: {fileID: 2100000, guid: 75bc0cd1075c8254c9a1684ebd1d5b5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a6-wheel-inside
+    second: {fileID: 2100000, guid: a351a81b0a3d70b4190a9bdbf0e23399, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
